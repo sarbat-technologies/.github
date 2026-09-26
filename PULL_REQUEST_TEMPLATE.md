@@ -6,7 +6,7 @@ Fill in each section. Delete a section only if it genuinely doesn't apply, and s
 ## What & why
 <!-- One or two sentences: what this changes and why. -->
 
-Spec: `<repo>/specs/<ID>-*.md` — header Status updated; BOARD.md updated
+Spec: `<repo>/specs/<ID>-*.md` — header Status updated; `/board` run (BOARD.md regenerated, no drift)
 
 ## Changes
 <!-- Bullet the substantive changes — what a reviewer should actually look at. -->
